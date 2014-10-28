@@ -1,0 +1,16 @@
+{
+  "name": "weAreTheNoteTakers",
+  "description": "",
+  "homepage": "",
+  "keywords": [
+  ],
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "webcomponentsjs": "polymer/webcomponentsjs#^0.5.0",
+    "paper-elements": "Polymer/paper-elements#master",
+    "core-elements": "Polymer/core-elements",
+    "font-roboto": "Polymer/font-roboto"
+  }
+}

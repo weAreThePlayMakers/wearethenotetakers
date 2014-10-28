@@ -1,0 +1,62 @@
+:host {
+   font-family: 'Slackey', cursive;
+}
+
+[drawer] {
+  background-color: #fff;
+}
+
+[main] > div {
+  padding: 2em;
+}
+
+[drawer] > core-item {
+  padding: 1em;
+}
+
+[main] paper-checkbox {
+  margin-right: 1em;
+}
+
+[main] {
+  height: 100%;
+  background-color: #f1f1f3;
+}
+
+[drawer] core-toolbar {
+  background-color: #730302;
+  color: #fff;
+}
+
+[main] core-toolbar {
+  background-color: #3F0201;
+  color: #fff;
+}
+
+paper-fab {
+  background-color: #A60604;
+  position: absolute !important;
+  bottom: -27px;
+  right: 1em;
+  z-index: 10;
+}
+
+.card {
+  width: 300px;
+  background-color: #fff;
+  padding: 1em;
+  margin: 1em;
+  position: relative;
+}
+
+*[data-fade-selected="true"] .item[data-done="true"] {
+  opacity: 0.3;
+}
+
+paper-button[raised].colored {
+  width: 100%;
+  background: #A60604;
+  color: #fff;
+  fill: #fff;
+}
+
