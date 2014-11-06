@@ -1,16 +1,16 @@
 {
-  "name": "weAreTheNoteTakers",
-  "description": "",
-  "homepage": "",
-  "keywords": [
-  ],
-  "author": "",
-  "private": true,
-  "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "webcomponentsjs": "polymer/webcomponentsjs#^0.5.0",
-    "paper-elements": "Polymer/paper-elements#master",
-    "core-elements": "Polymer/core-elements",
-    "font-roboto": "Polymer/font-roboto"
-  }
+    "name": "weAreTheNoteTakers",
+    "description": "First take at web components -> very simple note taking app built with polymer library. Check out polymer project website and jump into new era of web development based on encapsulated and interoperable custom elements that extend HTML itself.",
+    "homepage": "https://github.com/weAreThePlayMakers/wearethenotetakers",
+    "keywords": [web components, polymer, weAreThePlayMakers
+                ],
+    "author": "rafszul",
+    "private": true,
+    "dependencies": {
+        "polymer": "Polymer/polymer#master",
+        "webcomponentsjs": "polymer/webcomponentsjs#^0.5.0",
+        "paper-elements": "Polymer/paper-elements#master",
+        "core-elements": "Polymer/core-elements",
+        "font-roboto": "Polymer/font-roboto"
+    }
 }
